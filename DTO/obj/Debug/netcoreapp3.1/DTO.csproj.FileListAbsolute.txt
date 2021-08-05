@@ -1,0 +1,9 @@
+D:\Git\CSharpTech\Labo Fraction\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\Git\CSharpTech\Labo Fraction\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Git\CSharpTech\Labo Fraction\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\Git\CSharpTech\Labo Fraction\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache

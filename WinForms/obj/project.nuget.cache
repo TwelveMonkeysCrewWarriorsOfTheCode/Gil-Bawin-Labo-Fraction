@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYmpjnd9wgnqKSHuxPEzpmfqZT8tOQChm+0Tyn+c5ISeuxfJpE0vHo75mwOnHtRJrrfz+tsddsx6lMsuYyEzTw==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CSharpTech\\Labo Fraction\\WinForms\\WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heimdhall\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\Heimdhall\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Git\CSharpTech\Labo Fraction\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+D:\Git\CSharpTech\Labo Fraction\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Git\CSharpTech\Labo Fraction\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Git\CSharpTech\Labo Fraction\DAL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\Git\CSharpTech\Labo Fraction\DAL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+D:\Git\CSharpTech\Labo Fraction\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
